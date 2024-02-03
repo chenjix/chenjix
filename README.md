@@ -1,5 +1,11 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=chenjix&show_icons=true&theme=dark&count_private=true)
+I am an undergraduate student from NJU-SE.
+- 🔭 I am currently working on LLM-powered language agents @HKUNLP.
+- 🌱 I am now an exchange student @HKUST-CS.
+- 📫 How to reach me: chenjx@smail.nju.edu.cn / jcheniq@connect.ust.hk.
+- 💬 Ask me about anything u like. Let's make friends!
+
+
 
 <!--
 **chenjix/chenjix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
