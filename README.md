@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am an undergraduate student from NJU-SE.
-- 🔭 I am currently working on LLM-powered language agents @HKUNLP.
-- 🌱 I am now an exchange student @HKUST-CS.
-- 📫 How to reach me: chenjx@smail.nju.edu.cn / jcheniq@connect.ust.hk.
+- 🔭 I am currently working on Computer Use agents & Code Generation @HKUNLP.
+- ⚡ I was an exchange student @HKUST-CS and I stay in Hong Kong for over 1 year.
+- 📫 How to reach me: chenjx@smail.nju.edu.cn / jxchen0908@gmail.com.
 - 💬 Ask me about anything u like. Let's make friends!
 
 
